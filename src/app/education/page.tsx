@@ -36,7 +36,7 @@ interface Education {
 export default function EducationPage() {
   const [education, setEducation] = useState<Education | null>(null);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+  const [error, setError] = useState<string>('');
 
   const motionProps: HTMLMotionProps<"div"> = {
     initial: { opacity: 0, y: 20 },
@@ -52,7 +52,10 @@ export default function EducationPage() {
         setEducation(data);
       } catch (err) {
         console.error('Error fetching education data:', err);
-        setError(err instanceof Error ? err.message : 'Failed to load education data');
+        const errorMessage = 
+          (err as Error)?.message || 
+          (typeof err === 'string' ? err : 'Failed to load education data');
+        setError(errorMessage);
       } finally {
         setLoading(false);
       }
@@ -64,8 +67,12 @@ export default function EducationPage() {
     return <Loading />;
   }
 
-  if (error || !education) {
-    return <Error message={error || 'No education data available'} />;
+  if (error) {
+    return <Error message={error} />;
+  }
+
+  if (!education) {
+    return <Error message={'No education data available'} />;
   }
 
   return (

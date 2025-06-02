@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { books } from "@/data/books.json";
+import books from "@/data/books.json";
 
 export async function POST(request: Request) {
   try {
