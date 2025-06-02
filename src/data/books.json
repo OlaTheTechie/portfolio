@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Technical",
+    "coverImage": "/assets/books/clean-code.jpeg",
+    "description": "A handbook of software craftsmanship that teaches you how to write clean, maintainable code.",
+    "amazonLink": "https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf",
+    "tags": ["programming", "software engineering", "best practices"]
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-Development",
+    "coverImage": "/assets/books/atomic-habits.jpg",
+    "description": "A practical guide that reveals how small changes can lead to remarkable results.",
+    "amazonLink": "https://archive.org/download/atomic-habits-pdfdrive/Atomic%20habits%20%28%20PDFDrive%20%29.pdf",
+    "tags": ["productivity", "habits", "self-improvement"]
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Science",
+    "coverImage": "/assets/books/thinking-fast-and-slow.jpeg",
+    "description": "A groundbreaking book about the two systems that drive the way we think.",
+    "amazonLink": "https://archive.org/download/DanielKahnemanThinkingFastAndSlow/Daniel%20Kahneman-Thinking%2C%20Fast%20and%20Slow%20%20.pdf",
+    "tags": ["psychology", "cognitive science", "decision making"]
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "category": "Financial Literacy",
+    "coverImage": "/assets/books/the-intelligent-investor.png",
+    "description": "The classic text on value investing that has stood the test of time.",
+    "amazonLink": "https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The%20Intelligent%20Investor%20-%20BENJAMIN%20GRAHAM.pdf",
+    "tags": ["investing", "finance", "value investing"]
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Productivity",
+    "coverImage": "/assets/books/deep-work.jpg",
+    "description": "Rules for focused success in a distracted world.",
+    "amazonLink": "https://pdfcoffee.com/download/2016-deep-work-by-cal-newport-rules-for-focused-success-in-a-distracted-world-grand-central-publishing-3-pdf-free.html",
+    "tags": ["productivity", "focus", "time management"]
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "Science",
+    "coverImage": "/assets/books/sapiens.jpeg",
+    "description": "A brief history of humankind from the emergence of Homo sapiens in Africa to the present day.",
+    "amazonLink": "https://staibabussalamsula.ac.id/wp-content/uploads/2023/11/yuval_noah_harari-sapiens_a_brief_histor.pdf",
+    "tags": ["history", "anthropology", "human evolution"]
+  }
+]

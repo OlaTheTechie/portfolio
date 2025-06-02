@@ -1,0 +1,62 @@
+{
+  "degrees": [
+    {
+      "degree": "Bachelor of Technology, Computer Science",
+      "school": "Federal University of Technology Akure",
+      "year": "2026",
+      "description": "Focused on Computer Science fundamentals, AI/ML, and Software Development"
+    },
+    {
+      "degree": "Data Science Hons, Applied Data Science",
+      "school": "WorldQuant University",
+      "year": "2024",
+      "description": "Specialized in Data Science and its applications in real-world scenarios"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Data Science and Machine Learning Certificate",
+      "issuer": "DSN X Microsoft",
+      "date": "2024",
+      "url": "#"
+    },
+    {
+      "name": "PowerCo Data Science Sim Certificate",
+      "issuer": "Forage",
+      "date": "2024",
+      "url": "#"
+    },
+    {
+      "name": "AI Career Essentials",
+      "issuer": "LinkedIn",
+      "date": "2024",
+      "url": "#"
+    },
+    {
+      "name": "Applied Data Science Certificate",
+      "issuer": "WQU",
+      "date": "2024",
+      "url": "#"
+    },
+    {
+      "name": "AI/ML Engineering Certificate",
+      "issuer": "RemoDesk",
+      "date": "2024",
+      "url": "#"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Dean's List",
+      "organization": "Federal University of Technology Akure",
+      "date": "2024",
+      "description": "Consistently maintained academic excellence with a GPA above 4.5"
+    },
+    {
+      "title": "Merit Scholarship",
+      "organization": "WorldQuant University",
+      "date": "2024",
+      "description": "Awarded full scholarship based on academic performance and potential"
+    }
+  ]
+}

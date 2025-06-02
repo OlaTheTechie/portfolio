@@ -1,0 +1,71 @@
+{
+  "categories": [
+    {
+      "name": "Machine Learning & AI",
+      "books": [
+        {
+          "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+          "author": "Aurélien Géron",
+          "coverImage": "https://raw.githubusercontent.com/yourusername/portfolio-assets/main/books/hands-on-ml.jpg",
+          "status": "reading",
+          "progress": 75,
+          "tags": ["Machine Learning", "Deep Learning", "Python"],
+          "review": "Comprehensive guide to modern ML techniques with practical examples"
+        },
+        {
+          "title": "Deep Learning with Python",
+          "author": "François Chollet",
+          "coverImage": "https://raw.githubusercontent.com/yourusername/portfolio-assets/main/books/deep-learning-python.jpg",
+          "status": "completed",
+          "rating": 5,
+          "tags": ["Deep Learning", "Keras", "Neural Networks"],
+          "review": "Excellent introduction to deep learning concepts"
+        }
+      ]
+    },
+    {
+      "name": "Data Science",
+      "books": [
+        {
+          "title": "Python for Data Analysis",
+          "author": "Wes McKinney",
+          "coverImage": "https://raw.githubusercontent.com/yourusername/portfolio-assets/main/books/python-data-analysis.jpg",
+          "status": "completed",
+          "rating": 5,
+          "tags": ["Python", "Pandas", "Data Analysis"],
+          "review": "Essential resource for data manipulation with Python"
+        },
+        {
+          "title": "Data Science from Scratch",
+          "author": "Joel Grus",
+          "coverImage": "https://raw.githubusercontent.com/yourusername/portfolio-assets/main/books/ds-from-scratch.jpg",
+          "status": "reading",
+          "progress": 60,
+          "tags": ["Python", "Statistics", "Machine Learning"],
+          "review": "Great for understanding fundamental concepts"
+        }
+      ]
+    },
+    {
+      "name": "MLOps & Production",
+      "books": [
+        {
+          "title": "Designing Machine Learning Systems",
+          "author": "Chip Huyen",
+          "coverImage": "https://raw.githubusercontent.com/yourusername/portfolio-assets/main/books/ml-systems.jpg",
+          "status": "reading",
+          "progress": 40,
+          "tags": ["MLOps", "System Design", "Production ML"],
+          "review": "Practical guide to building production ML systems"
+        },
+        {
+          "title": "Building Machine Learning Powered Applications",
+          "author": "Emmanuel Ameisen",
+          "coverImage": "https://raw.githubusercontent.com/yourusername/portfolio-assets/main/books/ml-powered-apps.jpg",
+          "status": "wishlist",
+          "tags": ["MLOps", "Applications", "Deployment"]
+        }
+      ]
+    }
+  ]
+}

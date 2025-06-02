@@ -1,0 +1,316 @@
+{
+  "categories": [
+    {
+      "name": "Machine Learning & AI",
+      "skills": [
+        {
+          "name": "Natural Language Processing",
+          "level": "Advanced",
+          "icon": "brain",
+          "years": 2
+        },
+        {
+          "name": "Large Language Models",
+          "level": "Advanced",
+          "icon": "language",
+          "years": 2
+        },
+        {
+          "name": "Computer Vision",
+          "level": "Intermediate",
+          "icon": "eye",
+          "years": 1
+        },
+        {
+          "name": "Time Series Analysis",
+          "level": "Advanced",
+          "icon": "chart-line",
+          "years": 2
+        }
+      ]
+    },
+    {
+      "name": "ML Frameworks & Tools",
+      "skills": [
+        {
+          "name": "TensorFlow",
+          "level": "Advanced",
+          "icon": "tensorflow",
+          "years": 2
+        },
+        {
+          "name": "PyTorch",
+          "level": "Intermediate",
+          "icon": "pytorch",
+          "years": 1
+        },
+        {
+          "name": "Scikit-learn",
+          "level": "Advanced",
+          "icon": "scikit",
+          "years": 2
+        },
+        {
+          "name": "Hugging Face",
+          "level": "Advanced",
+          "icon": "huggingface",
+          "years": 2
+        }
+      ]
+    },
+    {
+      "name": "Data Science & Analysis",
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Advanced",
+          "icon": "python",
+          "years": 3
+        },
+        {
+          "name": "Pandas & NumPy",
+          "level": "Advanced",
+          "icon": "pandas",
+          "years": 2
+        },
+        {
+          "name": "Statistical Analysis",
+          "level": "Advanced",
+          "icon": "chart-bar",
+          "years": 2
+        },
+        {
+          "name": "Data Visualization",
+          "level": "Advanced",
+          "icon": "chart-pie",
+          "years": 2
+        }
+      ]
+    },
+    {
+      "name": "MLOps & Deployment",
+      "skills": [
+        {
+          "name": "Azure ML",
+          "level": "Intermediate",
+          "icon": "microsoft",
+          "years": 1
+        },
+        {
+          "name": "AWS SageMaker",
+          "level": "Intermediate",
+          "icon": "aws",
+          "years": 1
+        },
+        {
+          "name": "FastAPI",
+          "level": "Advanced",
+          "icon": "api",
+          "years": 2
+        },
+        {
+          "name": "Docker",
+          "level": "Intermediate",
+          "icon": "docker",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "skills": [
+        {
+          "name": "Git & GitHub",
+          "level": "Advanced",
+          "icon": "github",
+          "years": 2
+        },
+        {
+          "name": "Jupyter",
+          "level": "Advanced",
+          "icon": "jupyter",
+          "years": 2
+        },
+        {
+          "name": "VS Code",
+          "level": "Advanced",
+          "icon": "vscode",
+          "years": 2
+        },
+        {
+          "name": "Linux/Shell",
+          "level": "Advanced",
+          "icon": "terminal",
+          "years": 2
+        }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "skills": [
+        {
+          "name": "Node.js",
+          "level": "Intermediate",
+          "icon": "nodejs",
+          "years": 2
+        },
+        {
+          "name": "Express.js",
+          "level": "Intermediate",
+          "icon": "express",
+          "years": 2
+        },
+        {
+          "name": "MongoDB",
+          "level": "Intermediate",
+          "icon": "mongodb",
+          "years": 2
+        }
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Advanced",
+          "icon": "python",
+          "years": 2
+        },
+        {
+          "name": "JavaScript",
+          "level": "Intermediate",
+          "icon": "javascript",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "name": "Machine Learning Frameworks",
+      "skills": [
+        {
+          "name": "TensorFlow",
+          "level": "Intermediate",
+          "icon": "tensorflow",
+          "years": 1
+        },
+        {
+          "name": "PyTorch",
+          "level": "Intermediate",
+          "icon": "pytorch",
+          "years": 1
+        },
+        {
+          "name": "Scikit-learn",
+          "level": "Advanced",
+          "icon": "scikit",
+          "years": 2
+        }
+      ]
+    },
+    {
+      "name": "Data Analysis & Visualization",
+      "skills": [
+        {
+          "name": "Pandas",
+          "level": "Advanced",
+          "icon": "pandas",
+          "years": 2
+        },
+        {
+          "name": "NumPy",
+          "level": "Advanced",
+          "icon": "numpy",
+          "years": 2
+        },
+        {
+          "name": "Matplotlib",
+          "level": "Advanced",
+          "icon": "chart-line",
+          "years": 2
+        },
+        {
+          "name": "Seaborn",
+          "level": "Advanced",
+          "icon": "chart-bar",
+          "years": 2
+        }
+      ]
+    },
+    {
+      "name": "Cloud & Deployment",
+      "skills": [
+        {
+          "name": "Azure",
+          "level": "Intermediate",
+          "icon": "microsoft",
+          "years": 1
+        },
+        {
+          "name": "AWS",
+          "level": "Intermediate",
+          "icon": "aws",
+          "years": 1
+        },
+        {
+          "name": "FastAPI",
+          "level": "Intermediate",
+          "icon": "api",
+          "years": 1
+        },
+        {
+          "name": "Heroku",
+          "level": "Intermediate",
+          "icon": "heroku",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "skills": [
+        {
+          "name": "Git",
+          "level": "Advanced",
+          "icon": "git",
+          "years": 2
+        },
+        {
+          "name": "Jupyter Notebook",
+          "level": "Advanced",
+          "icon": "jupyter",
+          "years": 2
+        },
+        {
+          "name": "VS Code",
+          "level": "Advanced",
+          "icon": "vscode",
+          "years": 2
+        }
+      ]
+    },
+    {
+      "name": "Tools & Technologies",
+      "skills": [
+        {
+          "name": "Git",
+          "level": "Advanced",
+          "icon": "git",
+          "years": 3
+        },
+        {
+          "name": "Docker",
+          "level": "Intermediate",
+          "icon": "docker",
+          "years": 1
+        },
+        {
+          "name": "AWS",
+          "level": "Intermediate",
+          "icon": "aws",
+          "years": 1
+        }
+      ]
+    }
+  ]
+}

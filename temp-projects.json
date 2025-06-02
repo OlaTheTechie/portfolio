@@ -1,0 +1,40 @@
+{
+  "featured": [
+    {
+      "title": "AI Resume Screener",
+      "description": "Built an AI system using NLP and transformer models to automate resume screening and candidate evaluation for hiring managers.",
+      "tech": ["Python", "Transformers", "NLP", "Machine Learning"],
+      "github": "#"
+    },
+    {
+      "title": "Image Recognition App",
+      "description": "Developed an image classification system that detects and labels objects in real-time using convolutional neural networks and transfer learning.",
+      "tech": ["Python", "TensorFlow", "CNNs", "Computer Vision"],
+      "github": "#"
+    },
+    {
+      "title": "RAG Healthcare Assistant Chatbot",
+      "description": "Created a medical chatbot using Retrieval-Augmented Generation to provide accurate, context-aware responses to patient queries.",
+      "tech": ["Python", "LangChain", "RAG", "LLMs"],
+      "github": "#"
+    },
+    {
+      "title": "Inventory Data Extraction Pipeline",
+      "description": "Developed a high-accuracy text extraction system to process and analyze inventory documents using OCR and pattern matching.",
+      "tech": ["Python", "OCR", "Regex", "Data Processing"],
+      "github": "#"
+    },
+    {
+      "title": "PowerCo Customer Churn Prediction",
+      "description": "Built machine learning models to predict and prevent customer churn, helping PowerCo improve customer retention strategies.",
+      "tech": ["Python", "Scikit-learn", "Data Analysis", "Machine Learning"],
+      "github": "#"
+    },
+    {
+      "title": "AirQo Air Quality Prediction",
+      "description": "Created a machine learning solution to analyze and predict air quality levels in urban areas, enabling proactive environmental decisions.",
+      "tech": ["Python", "Time Series", "Machine Learning", "Data Analysis"],
+      "github": "#"
+    }
+  ]
+}

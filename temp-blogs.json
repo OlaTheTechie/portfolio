@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "title": "Building a Portfolio with Next.js",
+      "brief": "Learn how to create a professional portfolio website using Next.js, Tailwind CSS, and TypeScript.",
+      "slug": "building-portfolio-nextjs",
+      "dateAdded": "2024-04-20",
+      "coverImage": "/blog/portfolio.jpg",
+      "totalReactions": 28,
+      "url": "https://hashnode.com/@boladimeji834/building-portfolio-nextjs"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "title": "Building a Portfolio with Next.js",
+      "brief": "Learn how to create a professional portfolio website using Next.js, Tailwind CSS, and TypeScript.",
+      "slug": "building-portfolio-nextjs",
+      "dateAdded": "2024-04-20",
+      "coverImage": "https://raw.githubusercontent.com/YOUR_USERNAME/my-portfolio/main/public/blog-images/portfolio.jpg",
+      "totalReactions": 28,
+      "url": "https://hashnode.com/@boladimeji834/building-portfolio-nextjs"
+    },
+    {
+      "title": "Understanding React Server Components",
+      "brief": "Deep dive into React Server Components, how they work, and when to use them in your Next.js applications.",
+      "slug": "understanding-react-server-components",
+      "dateAdded": "2024-05-01",
+      "coverImage": "https://raw.githubusercontent.com/YOUR_USERNAME/my-portfolio/main/public/blog-images/react-server.jpg",
+      "totalReactions": 35,
+      "url": "https://hashnode.com/@boladimeji834/understanding-react-server-components"
+    },
+    {
+      "title": "Getting Started with Next.js and TypeScript",
+      "brief": "A comprehensive guide to building modern web applications with Next.js and TypeScript, including best practices and common patterns.",
+      "slug": "getting-started-nextjs-typescript",
+      "dateAdded": "2024-05-15",
+      "coverImage": "https://raw.githubusercontent.com/YOUR_USERNAME/my-portfolio/main/public/blog-images/nextjs-typescript.jpg",
+      "totalReactions": 42,
+      "url": "https://hashnode.com/@boladimeji834/getting-started-nextjs-typescript"
+    }
+  ]
+}
