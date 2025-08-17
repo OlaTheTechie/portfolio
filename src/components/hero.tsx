@@ -19,10 +19,16 @@ export default function Hero() {
               Hi, I'm <span className="bg-gradient-to-r from-primary to-primary/80 bg-clip-text text-transparent">Oladimeji Balogun</span>
             </h1>
             <p className="mt-6 text-xl text-muted-foreground">
-              Data Scientist | AI Engineer | Award Winning Scholar & Innovator
+              Data Scientist | AI/ML Engineer | Award Winning Scholar & Innovator
             </p>
             <p className="mt-6 text-lg text-muted-foreground max-w-2xl">
-              I leverage cutting-edge data science and AI to solve complex problems and drive innovation. My expertise spans machine learning, deep learning, and data analysis.
+
+            I do data science, machine learning, and AI, guided by a strong interest in science, technology, and problem solving. 
+            <br /> 
+            My focus is on building practical solutions while continuously deepening my understanding of how things work. 
+            <br /> 
+            I also share my journey: the progress, challenges, and lessons learned to contribute to the growth of others exploring similar paths.
+
             </p>
           </motion.div>
 
